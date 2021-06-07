@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class App {
 
     public static void main(String[] args) throws Exception {
-        System.out.println("HELLO MY ZOINKKSSSter");
+        System.out.println("HELLO MY ZOINKKSSSter zincster");
 
         Scanner scan = new Scanner(System.in);
 
