@@ -3,12 +3,12 @@ import java.util.Scanner;
 public class App {
 
     public static void main(String[] args) throws Exception {
-        System.out.println("HELLO MY ZOINKKSSS");
+        System.out.println("HELLO MY ZOINKKSSSter");
 
         Scanner scan = new Scanner(System.in);
 
         for (int i = 0; i <= 5; i++) {
-            System.out.println("Zoinks " + i);
+            System.out.println("Zoinkster " + i);
         }
 
         int Number;
